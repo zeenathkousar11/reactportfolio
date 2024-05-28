@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-5">
         I am a passionate and dedicated full-stack developer currently undergoing comprehensive training at Code for India. With a solid foundation in both front-end and back-end technologies. 
        </p>
 
